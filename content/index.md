@@ -47,7 +47,7 @@ Honest, detailed logs of projects from idea → architecture → shipped. Includ
 
 ## Recent Writing
 
-- [[Project HELIOS]] : 
+- [[Project HELIOS]] : Project **HELIOS** is an _AI-powered executive assistant_ designed for institutional leadership.
 - 🆕 **Building AmritaGPT: From LLM to a Full Institutional AI Ecosystem** — *Coming soon*
 - 🆕 **How I Found Two High-Severity Bugs in Google's OAuth Flow** — *Coming soon*
 - 🆕 **RAG in Production: What the Tutorials Don't Tell You** — *Coming soon*
