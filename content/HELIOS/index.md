@@ -1,6 +1,9 @@
 ---
 title: Project HELIOS
 draft: false
+tags:
+  - AI
+  - project
 ---
 Project **HELIOS** is an AI-powered executive assistant designed for institutional leadership.
 

@@ -1,9 +1,9 @@
 ---
 title: Features
 tags:
-  - project
   - AI
   - Leadership
+  - feature
 ---
 # Feature One
 ```mermaid
@@ -178,4 +178,4 @@ The system acts like an intelligent executive assistant that deeply understands 
 # Feature four
 
 Smart Personalised Email Drafting
-![[Feat-5.svg]]
+![[Feat-5.svg|688]]
