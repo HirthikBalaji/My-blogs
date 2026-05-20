@@ -1,26 +1,23 @@
+# Introduction
+
+Welcome to **Smart Executive Mail**, your AI-powered Chief of Staff designed specifically for institutional principals and executives. This system transforms raw email data into actionable institutional intelligence.
+
+## Overview
+
+The platform moves beyond simple email management by providing a live operational model of your organization. It helps you stay ahead of bottlenecks, manage department health, and surface critical insights that would otherwise be buried in your inbox.
+
+## Key Capabilities
+
+- **[[Core-Features#F1: Proactive Executive Intelligence|Proactive Intelligence]]**: Predicts urgent actions and decision bottlenecks.
+- **[[Core-Features#F2: AI Digital Twin|Institutional Digital Twin]]**: A live model of departments and communication flows.
+- **[[Core-Features#F3: Knowledge Graph|Knowledge Graph]]**: Mapping people, relationships, and projects.
+- **[[Core-Features#F4: Executive Command Center|Executive Command Center]]**: Natural-language interface for complex institutional queries.
+
+## Getting Started
+
+To get the system up and running, please refer to the [[Getting-Started]] guide. 
+
+If you are looking to integrate this with AI assistants like Claude, check the [[MCP-Integration]] section.
+
 ---
-title: Project HELIOS
-draft: false
-tags:
-  - AI
-  - project
----
-Project **HELIOS** is an AI-powered executive assistant designed for institutional leadership.
-
-It combines intelligent email management, natural language search, workflow understanding, and organizational intelligence into a single smart platform.
-
-The system learns from emails, meetings, documents, calendars, and tasks to build a deep understanding of the institution’s operations and communication flow.
-
-## Using advanced AI and knowledge graph technology, HELIOS can:
-
-- Answer questions in natural language
-- Find emails using contextual search
-- Track deadlines and priorities
-- Generate smart summaries and drafts
-- Detect operational bottlenecks
-- Provide executive insights and recommendations
-- Understand relationships between people, departments, and projects
-
-HELIOS acts as a digital chief-of-staff for institutional leaders, helping them make faster, smarter, and more informed decisions.
-
-Check out the [[Features]]
+*Next: Learn how to [[Getting-Started|set up the application]].*
