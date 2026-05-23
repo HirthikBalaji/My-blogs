@@ -11,9 +11,7 @@ This document proposes a strategic roadmap for improving an AI-powered universit
 - Existing university systems such as:
     
     - ERP
-        
     - Attendance systems
-        
     - Learning Management Systems (LMS)
         
     - Hostel systems
