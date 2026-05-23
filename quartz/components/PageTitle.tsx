@@ -1,4 +1,4 @@
-import { pathToRoot } from "../util/path"
+import { pathToRoot, joinSegments } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
@@ -8,7 +8,10 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <h2 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>{title}</a>
+      <a href={baseDir}>
+        <img src={joinSegments(baseDir, "static/icon.png")} alt={title} />
+        {title}
+      </a>
     </h2>
   )
 }
@@ -18,6 +21,20 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
   font-family: var(--titleFont);
+
+  & > a {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    color: var(--dark);
+    text-decoration: none;
+
+    & > img {
+      height: 2.5rem;
+      width: auto;
+      border-radius: 4px;
+    }
+  }
 }
 `
 
