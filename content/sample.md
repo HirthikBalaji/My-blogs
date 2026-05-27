@@ -1,3 +1,8 @@
+---
+title: "Master Study Guide: LLM and Agentic AI"
+Date: 2026-05-27
+---
+
 # 🧠 Master Study Guide: Complete LLM & Agentic AI Deep-Dive
 
 Welcome to the ultimate technical preparation and system-design study guide for Large Language Models (LLMs) and Agentic AI. This guide is built from first principles, combining mathematical rigor, architectural diagrams, concrete analogies, and interview-ready answers to prepare you for senior and staff-level AI Engineering roles.
