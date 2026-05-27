@@ -67,6 +67,10 @@ This is the final, critical stage where the LLM is utilized.
 
 ## Next Steps (Stage II)
 
+
+[[Implementation plan Stage-2]] see here for more details!
+
+
 While Stage I established core functionality, future stages will focus on improving the depth of understanding, including:
 
 *   **Multi-Hop Reasoning:** Answering questions that require synthesizing information from multiple, disparate chunks.
