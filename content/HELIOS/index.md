@@ -1,7 +1,6 @@
 ---
 title: Project HELIOS
 ---
-
 # Introduction
 
 Welcome to **Smart Executive Mail**, your AI-powered Chief of Staff designed specifically for institutional principals and executives. This system transforms raw email data into actionable institutional intelligence.

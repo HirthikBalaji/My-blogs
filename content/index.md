@@ -8,7 +8,7 @@ title: Welcome to Hirthik's Blog
 
 ## Hey, I'm Hirthik 👋
 
-I'm a Pre-Final-Year **Robotics & AI** undergrad at Amrita Vishwa Vidyapeetham (Chennai), concurrently doing my **BS in Programming & Data Science** at IIT Madras. I research under Large Language model domains, build things that (sometimes) work, and occasionally find security bugs in production systems.
+I'm a Pre-Final-Year **[[Robotics & AI]]** undergrad at Amrita Vishwa Vidyapeetham (Chennai), concurrently doing my **[[BS in Programming & Data Science]]** at IIT Madras. I research under Large Language model domains, build things that (sometimes) work, and occasionally find security bugs in production systems.
 
 This blog is where I document what I'm building, what I'm breaking, and what I'm learning — raw and unfiltered.
 

@@ -8,9 +8,11 @@ Follow these steps to set up and run the Smart Executive Mail application.
 - **Ollama**: Required for AI-powered curation and RAG features.
   - Download from [ollama.com](https://ollama.com).
   - Ensure you have the `llama3.2` model pulled:
-    ```bash
+  - 
+    
+```bash
     ollama run llama3.2
-    ```
+```
 
 ## Installation
 
