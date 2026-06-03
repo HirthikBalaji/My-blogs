@@ -1,18 +1,10 @@
 # Implementation Plan - Confidence-Aware Self-Consistency (CaSC)
 
-  
-
 This plan details the step-by-step implementation of the **Confidence-Aware Self-Consistency (CaSC)** framework using Hugging Face `transformers` and PyTorch on Apple Silicon (MPS).
-
-  
 
 To ensure a seamless, friction-free execution on an 8 GB M1 Mac, we will use **`Qwen/Qwen2.5-1.5B-Instruct`**. It is extremely lightweight (fitting easily in ~3 GB of memory), highly capable at math/reasoning tasks, and is **non-gated** (requires no Hugging Face API keys or approval to download).
 
-  
-
 ---
-
-  
 
 ## 1. System Requirements & Architecture
 
