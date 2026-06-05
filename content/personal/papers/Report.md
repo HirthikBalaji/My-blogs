@@ -23,9 +23,7 @@ This report evaluates the **verbatim originality** and **conceptual similarity**
   
 
 > [!NOTE]
-
 > **Verdict: 100% Original Prose.**
-
 > Running sentence-level search queries across academic databases and web engines returned **zero verbatim matches** for any of the key introductory, methodology, or analysis sections. The text is entirely self-written and exhibits high-quality scholarly phrasing.
 
   
